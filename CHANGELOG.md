@@ -7,9 +7,7 @@
   
 ---
 
-### v1.01.0 (2023-07-21)
+### v1.0.0 (2023-08-05)
   
-#### Added
-- exponential smoothing option
-- threshold cursor on chart
+- initial release of VIs extracted from `C:\Experiment VIs`
 
