@@ -3,13 +3,11 @@
 ### v1.1.0 (2023-08-08)
   
 #### Added
-- ability to receive and log multiple Neurotar variables
-- Neurotar config dialog with streaming test
-- header row to output data files
- 
+- created `Utilities/Build VIs` to consolidate the business involved in programmatically building an executable
+  
 ---
 
-### v2.1.0 (2023-07-21)
+### v1.01.0 (2023-07-21)
   
 #### Added
 - exponential smoothing option
