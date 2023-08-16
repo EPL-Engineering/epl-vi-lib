@@ -18,6 +18,7 @@
 	</Item>
 	<Item Name="Properties" Type="Folder"/>
 	<Item Name="Sub VIs" Type="Folder">
+		<Item Name="Delete Item.vi" Type="VI" URL="../Delete Item.vi"/>
 		<Item Name="Send Event.vi" Type="VI" URL="../Send Event.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
