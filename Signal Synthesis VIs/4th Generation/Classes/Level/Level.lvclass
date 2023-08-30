@@ -215,6 +215,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
+		<Item Name="Compute Arbitrary Signal Reference.vi" Type="VI" URL="../Compute Arbitrary Signal Reference.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!$1!C1(!!(A!!$QV-:8:F&lt;#ZM&gt;G.M98.T!!B-:8:F&lt;#"J&lt;A!!"!!!!#*!=!!?!!!0$5RF&gt;G6M,GRW9WRB=X-!#5RF&gt;G6M)'^V&gt;!!.1!I!"UZV&lt;76S;7-!&amp;%"!!!(`````!!-'=WFH&lt;G&amp;M!!!*1!I!!X*F:A!*1!I!!E:T!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!(!!A!#2.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!5!!$!!=!#!!*#76S=G^S)'^V&gt;!"^!0!!%!!!!!%!!1!"!!)!!1!"!!1!"1!'!!%!#A!"!!%!!1!,!Q!"#!!!%!!!!!!!!!!!!!!!!!!!!!U!!!!!!!!!!!!!!!I!!!!*!!!!#A!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!$1M!%1!!!!!"!!!!!!!!!!!!!!!!!!%!$!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 		<Item Name="Create.vi" Type="VI" URL="../Create.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#7!!!!!Q!%!!!!(E"Q!"Y!!!].4'6W:7QO&lt;(:D&lt;'&amp;T=Q!&amp;4'6W:7Q!&lt;!$Q!"!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!!!!!!!!!!!!!!)!!1A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
