@@ -134,15 +134,17 @@
 			<Item Name="Array-Unique Strings.vi" Type="VI" URL="../../Array Manipulation VIs/Array-Unique Strings.vi"/>
 			<Item Name="Build Array Name.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Build Array Name.vi"/>
 			<Item Name="Build Line.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Build Line.vi"/>
-			<Item Name="CAL-Interp (Fs, Npts).vi" Type="VI" URL="../../../Calibration VIs/Analysis VIs/CAL-Interp (Fs, Npts).vi"/>
-			<Item Name="CAL-Interp.vi" Type="VI" URL="../../../Calibration VIs/Analysis VIs/CAL-Interp.vi"/>
-			<Item Name="CAL-Read Data.vi" Type="VI" URL="../../../Calibration VIs/File IO VIs/CAL-Read Data.vi"/>
+			<Item Name="CAL-Interp (Fs, Npts).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Analysis VIs/CAL-Interp (Fs, Npts).vi"/>
+			<Item Name="CAL-Interp.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Analysis VIs/CAL-Interp.vi"/>
+			<Item Name="CAL-Read Data.vi" Type="VI" URL="../../../../epl-cal-vi-lib/File IO VIs/CAL-Read Data.vi"/>
 			<Item Name="CF,BW to Fmin,Fmax.vi" Type="VI" URL="../../Math VIs/CF,BW to Fmin,Fmax.vi"/>
 			<Item Name="CF,Oct to Fmin,Fmax.vi" Type="VI" URL="../../Math VIs/CF,Oct to Fmin,Fmax.vi"/>
 			<Item Name="Channel.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Channel/Channel.lvclass"/>
 			<Item Name="Channel.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Channel/Channel.xctl"/>
 			<Item Name="Cluster Array Variant to Cluster Variant Array.vi" Type="VI" URL="../../Controls/KTable/Cluster Array Variant to Cluster Variant Array.vi"/>
 			<Item Name="Cluster Variant Array to Table Items.vi" Type="VI" URL="../../Controls/KTable/Cluster Variant Array to Table Items.vi"/>
+			<Item Name="Coerce Rep Rate.vi" Type="VI" URL="../../Math VIs/Coerce Rep Rate.vi"/>
+			<Item Name="Coerce Stimulus Interval.vi" Type="VI" URL="../../Math VIs/Coerce Stimulus Interval.vi"/>
 			<Item Name="Config-Read Key (DBL).vi" Type="VI" URL="../../File IO VIs/Configuration File Wrapper VIs/Config-Read Key (DBL).vi"/>
 			<Item Name="Create Gate.vi" Type="VI" URL="../../../Signal Synthesis VIs/Gate VIs/Create Gate.vi"/>
 			<Item Name="Create Prism Color Map.vi" Type="VI" URL="../../Math VIs/Create Prism Color Map.vi"/>
@@ -203,10 +205,17 @@
 			<Item Name="KNumeric (DBL).xctl" Type="XControl" URL="../../Controls/KNumeric (DBL)/KNumeric (DBL).xctl"/>
 			<Item Name="KObject.lvclass" Type="LVClass" URL="../../../Koop/KObject Class/KObject.lvclass"/>
 			<Item Name="KTable.xctl" Type="XControl" URL="../../Controls/KTable/KTable.xctl"/>
-			<Item Name="LaserCal-Load Data (I-O).vi" Type="VI" URL="../../../Calibration VIs/Laser Calibration VIs/SubVIs/LaserCal-Load Data (I-O).vi"/>
-			<Item Name="LaserCal-mW to V (static).vi" Type="VI" URL="../../../Calibration VIs/Laser Calibration VIs/SubVIs/LaserCal-mW to V (static).vi"/>
-			<Item Name="LaserCal-mW to V.vi" Type="VI" URL="../../../Calibration VIs/Laser Calibration VIs/SubVIs/LaserCal-mW to V.vi"/>
-			<Item Name="LaserCal-V to mW.vi" Type="VI" URL="../../../Calibration VIs/Laser Calibration VIs/SubVIs/LaserCal-V to mW.vi"/>
+			<Item Name="LaserCal-Control Mode.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Control Mode.ctl"/>
+			<Item Name="LaserCal-Data (Dynamic).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Data (Dynamic).ctl"/>
+			<Item Name="LaserCal-Data (I-O).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Data (I-O).ctl"/>
+			<Item Name="LaserCal-Data (PT).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Data (PT).ctl"/>
+			<Item Name="LaserCal-IO Response Params.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-IO Response Params.ctl"/>
+			<Item Name="LaserCal-Load Data (I-O).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-Load Data (I-O).vi"/>
+			<Item Name="LaserCal-mW to V (static).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-mW to V (static).vi"/>
+			<Item Name="LaserCal-mW to V.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-mW to V.vi"/>
+			<Item Name="LaserCal-Stimulus Params.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Stimulus Params.ctl"/>
+			<Item Name="LaserCal-System ID.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-System ID.ctl"/>
+			<Item Name="LaserCal-V to mW.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-V to mW.vi"/>
 			<Item Name="Level.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Level/Level.lvclass"/>
 			<Item Name="Level.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Level/Level.xctl"/>
 			<Item Name="Linear to dB (2D).vi" Type="VI" URL="../../Math VIs/Linear to dB (2D).vi"/>
@@ -222,6 +231,7 @@
 			<Item Name="lvsound2.dll" Type="Document" URL="/&lt;resource&gt;/lvsound2.dll"/>
 			<Item Name="Math-Arbitrary Distribution.vi" Type="VI" URL="../../Math VIs/Math-Arbitrary Distribution.vi"/>
 			<Item Name="Math-Bernoulli Trial.vi" Type="VI" URL="../../Math VIs/Math-Bernoulli Trial.vi"/>
+			<Item Name="Math-Column Mean.vi" Type="VI" URL="../../Math VIs/Math-Column Mean.vi"/>
 			<Item Name="Math-Discrete Truncated Exponential RNG.vi" Type="VI" URL="../../Math VIs/Math-Discrete Truncated Exponential RNG.vi"/>
 			<Item Name="Math-Discrete Truncated Gaussian RNG.vi" Type="VI" URL="../../Math VIs/Math-Discrete Truncated Gaussian RNG.vi"/>
 			<Item Name="Math-Truncated Exponential RNG.vi" Type="VI" URL="../../Math VIs/Math-Truncated Exponential RNG.vi"/>
@@ -233,14 +243,14 @@
 			<Item Name="Noise.Buffer.vi" Type="VI" URL="../../../Signal Synthesis VIs/4th Generation/Sub VIs/Noise.Buffer.vi"/>
 			<Item Name="Noise.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Noise/Noise.lvclass"/>
 			<Item Name="Noise.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Waveforms/Noise/Noise.xctl"/>
-			<Item Name="Parse String Fields.vi" Type="VI" URL="../../../PXI DAQ VIs/Utility VIs/Parse String Fields.vi"/>
 			<Item Name="Parse String Fields.vi" Type="VI" URL="../../Array Manipulation VIs/Parse String Fields.vi"/>
 			<Item Name="Process Array Elements V2.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Process Array Elements V2.vi"/>
 			<Item Name="provcom_StringGlobals.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Common/provcom_StringGlobals.vi"/>
 			<Item Name="Pulse Train.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Pulse Train/Pulse Train.lvclass"/>
 			<Item Name="Pulse Train.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Waveforms/Pulse Train/Pulse Train.xctl"/>
-			<Item Name="PXI-Coerce Stimulus Interval.vi" Type="VI" URL="../../../PXI DAQ VIs/Utility VIs/PXI-Coerce Stimulus Interval.vi"/>
 			<Item Name="Read Anything (from variant).vi" Type="VI" URL="../../File IO VIs/Read Write Anything/Read Anything (from variant).vi"/>
+			<Item Name="Read Anything.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/Read Anything.vi"/>
+			<Item Name="Read Strings from File.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Read Strings from File.vi"/>
 			<Item Name="Read Write Options Cluster.ctl" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Read Write Options Cluster.ctl"/>
 			<Item Name="Replace Characters.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Replace Characters.vi"/>
 			<Item Name="RWAE-Fix Name.vi" Type="VI" URL="../../File IO VIs/Read Write Anything Enhanced/RWAE-Fix Name.vi"/>
@@ -250,6 +260,9 @@
 			<Item Name="SignalManager.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/SignalManager/SignalManager.xctl"/>
 			<Item Name="Sine-squared ramp.vi" Type="VI" URL="../../../Signal Synthesis VIs/Gate VIs/Sine-squared ramp.vi"/>
 			<Item Name="State.vi" Type="VI" URL="/C/Users/Ken/Desktop/XControl/State.vi"/>
+			<Item Name="Suppress Error Code - Array.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code - Array.vi"/>
+			<Item Name="Suppress Error Code - Scalar.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code - Scalar.vi"/>
+			<Item Name="Suppress Error Code.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code.vi"/>
 			<Item Name="SysInfo-Get Experiment VIs Subfolder.vi" Type="VI" URL="../../System Info VIs/SysInfo-Get Experiment VIs Subfolder.vi"/>
 			<Item Name="SysInfo-SubWCRev.vi" Type="VI" URL="../../System Info VIs/SysInfo-SubWCRev.vi"/>
 			<Item Name="System" Type="VI" URL="System">
@@ -415,7 +428,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/VI Scripting VIs/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B0D50724-470E-450F-8F9D-A0BC0BBD497E}</Property>
-				<Property Name="Bld_version.build" Type="Int">111</Property>
+				<Property Name="Bld_version.build" Type="Int">112</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">project/Scripting/XControl/XControl.llb</Property>
