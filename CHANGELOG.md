@@ -1,5 +1,16 @@
 ## Change Log
 
+### v1.2.0 (2023-08-31)
+
+#### Changed
+- added TDT Interface VIs
+- moved TCP VIs out of PXI DAQ VIs
+- eliminated all but more recent generation of Signal Synthesis VIs
+
+#### Added
+- exposed Noise weight
+- created pink noise option
+
 ### v1.1.0 (2023-08-08)
   
 #### Added
