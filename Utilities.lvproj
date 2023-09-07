@@ -17,14 +17,52 @@
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Append Data Element (1D Array of Double).vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Write/Append Data Element.llb/Append Data Element (1D Array of Double).vi"/>
 				<Item Name="Append Data Element.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Write/Append Data Element.llb/Append Data Element.vi"/>
+				<Item Name="Append Header, Footer and Watermark.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Header, Footer and Watermark Low level/Append Header, Footer and Watermark.vi"/>
+				<Item Name="Append Image.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Image Low level/Append Image.vi"/>
 				<Item Name="Append MAT-File Header Field.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Write/Append MAT-File Header Field.vi"/>
+				<Item Name="At the opening.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Initialization Controls/At the opening.ctl"/>
+				<Item Name="Change Default Font.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/LV Class/Fonts Class/VIs/Change Default Font.vi"/>
+				<Item Name="Chapter.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Chapter Controls/Chapter.ctl"/>
+				<Item Name="Close Chapter ref.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Chapter Low Level/Close Chapter ref.vi"/>
+				<Item Name="Close Document anf PDFWriter.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Document Low level/Close Document anf PDFWriter.vi"/>
+				<Item Name="Close Font Refnum.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/LV Class/Fonts Class/VIs/Close Font Refnum.vi"/>
+				<Item Name="Concatenate all PDF files.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/PDF File low level/Concatenate all PDF files.vi"/>
+				<Item Name="Create chapter and section.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Chapter Low Level/Create chapter and section.vi"/>
+				<Item Name="Create or Add Phrase or Paragraph with Images.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Text Low level/Create or Add Phrase or Paragraph with Images.vi"/>
+				<Item Name="Create PDFDocument.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Document Low level/Create PDFDocument.vi"/>
+				<Item Name="Create PDFWriter.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Document Low level/Create PDFWriter.vi"/>
+				<Item Name="Create, open or close.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/General Controls/Create, open or close.ctl"/>
+				<Item Name="Default or Users Font, Leading and Alignment.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Document Low level/Default or Users Font, Leading and Alignment.vi"/>
 				<Item Name="Extract Data Element (1D Array of Double).vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Read/Extract Data Element.llb/Extract Data Element (1D Array of Double).vi"/>
 				<Item Name="Extract Data Element (2D Array of Data Element from 2D Array of Cell).vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Read/Extract Data Element.llb/Extract Data Element (2D Array of Data Element from 2D Array of Cell).vi"/>
 				<Item Name="Extract Data Element.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Read/Extract Data Element.llb/Extract Data Element.vi"/>
 				<Item Name="Extract MAT-File Header Field.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Read/Extract MAT-File Header Field.vi"/>
+				<Item Name="File Dialog.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/File Low level/File Dialog.vi"/>
+				<Item Name="Image aligment.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Image Controls/Image aligment.ctl"/>
+				<Item Name="Image alignment and position.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Image Controls/Image alignment and position.ctl"/>
+				<Item Name="Image border.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Image Controls/Image border.ctl"/>
 				<Item Name="List Variables (mat file path).vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Utility/List Variables.llb/List Variables (mat file path).vi"/>
 				<Item Name="List Variables.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Utility/List Variables.llb/List Variables.vi"/>
+				<Item Name="Page Layout Custom.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page Layout Custom.ctl"/>
+				<Item Name="Page margins.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page margins.ctl"/>
+				<Item Name="Page setup.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page setup.ctl"/>
+				<Item Name="Paragraph indentation.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Paragraph indentation.ctl"/>
+				<Item Name="PDF Details.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Document/PDF Details.vi"/>
+				<Item Name="PDF Report Class.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Exaprom PDF/LV Class/PDF Report Class/PDF Report Class.lvclass"/>
+				<Item Name="Phrase or paragraph.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Phrase or paragraph.ctl"/>
+				<Item Name="Previous VI.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/General/Previous VI.vi"/>
+				<Item Name="Read Font from PDF Report.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/LV Class/Fonts Class/VIs/Read Font from PDF Report.vi"/>
+				<Item Name="Read Page Size.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Document Low level/Read Page Size.vi"/>
+				<Item Name="Set Default Alignment and Line Spacing.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Document/Set Default Alignment and Line Spacing.vi"/>
+				<Item Name="Set File Permissions V2.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/File Low level/Set File Permissions V2.vi"/>
+				<Item Name="Set Page Size.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Document/Set Page Size.vi"/>
+				<Item Name="SetName Anchor.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/PDF  miscellaneous/SetName Anchor.vi"/>
+				<Item Name="Source rub direction.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Unicode/Source rub direction.ctl"/>
+				<Item Name="Unit to Point.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/General/Unit to Point.vi"/>
+				<Item Name="Verify run direction.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Unicode low level/Verify run direction.vi"/>
 				<Item Name="WaveIO_GetInfo.vi" Type="VI" URL="/&lt;userlib&gt;/WaveIO.llb/WaveIO_GetInfo.vi"/>
+				<Item Name="Write Table of Content.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Chapter Low Level/Write Table of Content.vi"/>
+				<Item Name="Writing direction.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Unicode low level/Writing direction.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -210,6 +248,9 @@
 				<Item Name="DWDT Empty Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Empty Digital.vi"/>
 				<Item Name="DWDT Uncompress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Uncompress Digital.vi"/>
 				<Item Name="Empty Picture" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Empty Picture"/>
+				<Item Name="Equal Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Equal/Equal Comparable/Equal Comparable.lvclass"/>
+				<Item Name="Equal Functor.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Equal/Equal Functor/Equal Functor.lvclass"/>
+				<Item Name="Equals.vim" Type="VI" URL="/&lt;vilib&gt;/Comparison/Equals.vim"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
@@ -303,6 +344,8 @@
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 				<Item Name="Sampling Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/Sampling Mode.ctl"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
+				<Item Name="Search Unsorted 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Search Unsorted 1D Array Core.vim"/>
+				<Item Name="Search Unsorted 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Search Unsorted 1D Array.vim"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Busy.vi"/>
 				<Item Name="Set Cursor (Cursor ID).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Cursor ID).vi"/>
