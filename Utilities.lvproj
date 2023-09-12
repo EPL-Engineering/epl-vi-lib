@@ -38,14 +38,20 @@
 				<Item Name="Extract Data Element.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Read/Extract Data Element.llb/Extract Data Element.vi"/>
 				<Item Name="Extract MAT-File Header Field.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Read/Extract MAT-File Header Field.vi"/>
 				<Item Name="File Dialog.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/File Low level/File Dialog.vi"/>
+				<Item Name="Font color.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Font Controls/Font color.ctl"/>
+				<Item Name="Font size.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Font Controls/Font size.ctl"/>
+				<Item Name="Header and Footer Class.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Exaprom PDF/LV Class/Header and Footer Class/Header and Footer Class.lvclass"/>
 				<Item Name="Image aligment.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Image Controls/Image aligment.ctl"/>
 				<Item Name="Image alignment and position.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Image Controls/Image alignment and position.ctl"/>
 				<Item Name="Image border.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Image Controls/Image border.ctl"/>
+				<Item Name="Line spacing.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Line spacing.ctl"/>
 				<Item Name="List Variables (mat file path).vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Utility/List Variables.llb/List Variables (mat file path).vi"/>
 				<Item Name="List Variables.vi" Type="VI" URL="/&lt;userlib&gt;/_matio/level5/Public/Utility/List Variables.llb/List Variables.vi"/>
 				<Item Name="Page Layout Custom.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page Layout Custom.ctl"/>
 				<Item Name="Page margins.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page margins.ctl"/>
+				<Item Name="Page Orientation.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page Orientation.ctl"/>
 				<Item Name="Page setup.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page setup.ctl"/>
+				<Item Name="Page size.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Page Controls/Page size.ctl"/>
 				<Item Name="Paragraph indentation.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Paragraph indentation.ctl"/>
 				<Item Name="PDF Details.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Document/PDF Details.vi"/>
 				<Item Name="PDF Report Class.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Exaprom PDF/LV Class/PDF Report Class/PDF Report Class.lvclass"/>
@@ -58,6 +64,8 @@
 				<Item Name="Set Page Size.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Document/Set Page Size.vi"/>
 				<Item Name="SetName Anchor.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/PDF  miscellaneous/SetName Anchor.vi"/>
 				<Item Name="Source rub direction.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Unicode/Source rub direction.ctl"/>
+				<Item Name="Texte alignement.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Texte alignement.ctl"/>
+				<Item Name="Type and run direction.ctl" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/Controls/Text Controls/Unicode/Type and run direction.ctl"/>
 				<Item Name="Unit to Point.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/General/Unit to Point.vi"/>
 				<Item Name="Verify run direction.vi" Type="VI" URL="/&lt;userlib&gt;/Exaprom PDF/VIs/Low level/Unicode low level/Verify run direction.vi"/>
 				<Item Name="WaveIO_GetInfo.vi" Type="VI" URL="/&lt;userlib&gt;/WaveIO.llb/WaveIO_GetInfo.vi"/>
@@ -75,11 +83,11 @@
 				<Item Name="Append Chapter bookmark.vi" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/VIs/Table of contents/Append Chapter bookmark.vi"/>
 				<Item Name="Append Front Panel Image.vi" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/VIs/Image/Append Front Panel Image.vi"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
-				<Item Name="At the opening.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Initialization Controls/At the opening.ctl"/>
 				<Item Name="Beep.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/Beep.vi"/>
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
 				<Item Name="BuildErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/fileVersionInfo.llb/BuildErrorSource.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
+				<Item Name="Cell Vertical alignment.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Table Controls/Cell Vertical alignment.ctl"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Path.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Path.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
@@ -225,7 +233,6 @@
 				<Item Name="DAQmx Write (Raw 1D U16).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Raw 1D U16).vi"/>
 				<Item Name="DAQmx Write (Raw 1D U32).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Raw 1D U32).vi"/>
 				<Item Name="DAQmx Write.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write.vi"/>
-				<Item Name="Defaut Paragraphe and Line Spacing.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Initialization Controls/Defaut Paragraphe and Line Spacing.ctl"/>
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
@@ -264,8 +271,10 @@
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="FixedFileInfo_Struct.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/fileVersionInfo.llb/FixedFileInfo_Struct.ctl"/>
 				<Item Name="Flatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Flatten Pixmap.vi"/>
+				<Item Name="Font color.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Font Controls/Font color.ctl"/>
 				<Item Name="Font color.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Font Controls/Font color.ctl"/>
-				<Item Name="Font complete cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Font Controls/Font complete cluster.ctl"/>
+				<Item Name="Font complete cluster horizontal.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Font Controls/Font complete cluster horizontal.ctl"/>
+				<Item Name="Font size.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Font Controls/Font size.ctl"/>
 				<Item Name="Font size.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Font Controls/Font size.ctl"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
@@ -285,6 +294,13 @@
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
 				<Item Name="GetTargetBuildSpecs (project reference).vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/GetTargetBuildSpecs (project reference).vi"/>
 				<Item Name="GetTargetBuildSpecs.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/GetTargetBuildSpecs.vi"/>
+				<Item Name="Header and Footer Class.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Exaprom PDF/LV Class/Header and Footer Class/Header and Footer Class.lvclass"/>
+				<Item Name="Header Footer [ ] V2.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/LV Class/Header and Footer Class/VIs/Controls/Header Footer [ ] V2.ctl"/>
+				<Item Name="Header Footer cluster V2.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/LV Class/Header and Footer Class/VIs/Controls/Header Footer cluster V2.ctl"/>
+				<Item Name="Header footer horiz alignment.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Header, Footer and Watermark Controls/Header footer horiz alignment.ctl"/>
+				<Item Name="Header Footer Line.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Header, Footer and Watermark Controls/Header Footer Line.ctl"/>
+				<Item Name="Header Footer Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Header, Footer and Watermark Controls/Header Footer Type.ctl"/>
+				<Item Name="Header or Footer.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Header, Footer and Watermark Controls/Header or Footer.ctl"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="Hilite Color.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Hilite Color.vi"/>
 				<Item Name="Image aligment.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Image Controls/Image aligment.ctl"/>
@@ -293,7 +309,9 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
 				<Item Name="Invoke BuildTarget.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/Invoke BuildTarget.vi"/>
+				<Item Name="itextsharp.dll" Type="Document" URL="/&lt;vilib&gt;/DLL/itextsharp.dll"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
+				<Item Name="Line spacing.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Text Controls/Line spacing.ctl"/>
 				<Item Name="Line spacing.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Text Controls/Line spacing.ctl"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVAnnotationListTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVAnnotationListTypeDef.ctl"/>
@@ -315,6 +333,7 @@
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_AALBLAS.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBLAS.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_AdvSigProcTSA.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_Advanced Signal Processing/NI_AdvSigProcTSA.lvlib"/>
 				<Item Name="NI_App_Builder_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/AppBuilder/AB_API_Simple/NI_App_Builder_API.lvlib"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
@@ -330,6 +349,7 @@
 				<Item Name="Open URL in Default Browser.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser.vi"/>
 				<Item Name="Page Layout Custom.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Page Controls/Page Layout Custom.ctl"/>
 				<Item Name="Page margins.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Page Controls/Page margins.ctl"/>
+				<Item Name="Page number.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Header, Footer and Watermark Controls/Page number.ctl"/>
 				<Item Name="Page Orientation.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Page Controls/Page Orientation.ctl"/>
 				<Item Name="Page setup.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Page Controls/Page setup.ctl"/>
 				<Item Name="Page size.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Page Controls/Page size.ctl"/>
@@ -338,6 +358,7 @@
 				<Item Name="Path to URL.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Path to URL.vi"/>
 				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
 				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
+				<Item Name="PDF file source.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Concatenate Controls/PDF file source.ctl"/>
 				<Item Name="PDF Report Class.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Exaprom PDF/LV Class/PDF Report Class/PDF Report Class.lvclass"/>
 				<Item Name="Picture to Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Picture to Pixmap.vi"/>
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
@@ -403,9 +424,8 @@
 				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
 				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="TSA Welch (Array).vi" Type="VI" URL="/&lt;vilib&gt;/addons/Time Series Analysis/Correlation and Spectral Analysis.llb/TSA Welch (Array).vi"/>
-				<Item Name="TSA Welch.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Time Series Analysis/Correlation and Spectral Analysis.llb/TSA Welch.vi"/>
 				<Item Name="Type and encoding.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Font Controls/Type and encoding.ctl"/>
+				<Item Name="Type and run direction.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Text Controls/Unicode/Type and run direction.ctl"/>
 				<Item Name="Type and run direction.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Text Controls/Unicode/Type and run direction.ctl"/>
 				<Item Name="Unflatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Unflatten Pixmap.vi"/>
 				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
@@ -437,6 +457,9 @@
 			<Item Name="FM Sweep.xctl" Type="XControl" URL="../Signal Synthesis VIs/4th Generation/Controls/Waveforms/FM Sweep/FM Sweep.xctl"/>
 			<Item Name="Gate.lvclass" Type="LVClass" URL="../Signal Synthesis VIs/4th Generation/Classes/Gate/Gate.lvclass"/>
 			<Item Name="Gate.xctl" Type="XControl" URL="../Signal Synthesis VIs/4th Generation/Controls/Gate/Gate.xctl"/>
+			<Item Name="itextsharp" Type="VI" URL="itextsharp">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
