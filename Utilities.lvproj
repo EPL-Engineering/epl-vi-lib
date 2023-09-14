@@ -74,6 +74,7 @@
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+				<Item Name="8354ae6d2174ddca" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/DLL/8354ae6d2174ddca"/>
 				<Item Name="_2DArrToArrWfms.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/_2DArrToArrWfms.vi"/>
 				<Item Name="_ArrWfmsTo1DInterleave.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/_ArrWfmsTo1DInterleave.vi"/>
 				<Item Name="_ArrWfmsTo2DArr.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/_ArrWfmsTo2DArr.vi"/>
@@ -309,7 +310,6 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
 				<Item Name="Invoke BuildTarget.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/Invoke BuildTarget.vi"/>
-				<Item Name="itextsharp.dll" Type="Document" URL="/&lt;vilib&gt;/DLL/itextsharp.dll"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
 				<Item Name="Line spacing.ctl" Type="VI" URL="/&lt;vilib&gt;/Controls/Text Controls/Line spacing.ctl"/>
 				<Item Name="Line spacing.ctl" Type="VI" URL="/&lt;vilib&gt;/Exaprom PDF/Controls/Text Controls/Line spacing.ctl"/>
@@ -444,6 +444,7 @@
 			<Item Name="CFTS-Is Advanced User.vi" Type="VI" URL="../../epl-cfts/LV Source/CFTS SubVIs/CFTS-Is Advanced User.vi"/>
 			<Item Name="Channel.lvclass" Type="LVClass" URL="../Signal Synthesis VIs/4th Generation/Classes/Channel/Channel.lvclass"/>
 			<Item Name="Channel.xctl" Type="XControl" URL="../Signal Synthesis VIs/4th Generation/Controls/Channel/Channel.xctl"/>
+			<Item Name="Coerce Stimulus Interval.vi" Type="VI" URL="../Utility VIs/Math VIs/Coerce Stimulus Interval.vi"/>
 			<Item Name="CommonSig-Create Gate.vi" Type="VI" URL="../Signal Synthesis VIs/4th Generation/Common/CommonSig-Create Gate.vi"/>
 			<Item Name="CommonSig-Sin2 Ramp.vi" Type="VI" URL="../Signal Synthesis VIs/4th Generation/Common/CommonSig-Sin2 Ramp.vi"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
@@ -494,7 +495,6 @@
 			<Item Name="provcom_StringGlobals.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Common/provcom_StringGlobals.vi"/>
 			<Item Name="Pulse Train.lvclass" Type="LVClass" URL="../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Pulse Train/Pulse Train.lvclass"/>
 			<Item Name="Pulse Train.xctl" Type="XControl" URL="../Signal Synthesis VIs/4th Generation/Controls/Waveforms/Pulse Train/Pulse Train.xctl"/>
-			<Item Name="PXI-Connections File Path.vi" Type="VI" URL="../PXI DAQ VIs/Top Level VIs/PXI-Connections File Path.vi"/>
 			<Item Name="PXI-Enumerate DIO Lines (by port).vi" Type="VI" URL="../PXI DAQ VIs/Top Level VIs/PXI-Enumerate DIO Lines (by port).vi"/>
 			<Item Name="PXI-Enumerate DIO Ports.vi" Type="VI" URL="../PXI DAQ VIs/Top Level VIs/PXI-Enumerate DIO Ports.vi"/>
 			<Item Name="SAM.lvclass" Type="LVClass" URL="../Signal Synthesis VIs/4th Generation/Classes/Modulations/SAM/SAM.lvclass"/>
@@ -526,6 +526,7 @@
 			<Item Name="Waveform.lvclass" Type="LVClass" URL="../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Waveform/Waveform.lvclass"/>
 			<Item Name="Waveform.xctl" Type="XControl" URL="../Signal Synthesis VIs/4th Generation/Controls/Waveforms/Waveform/Waveform.xctl"/>
 			<Item Name="Window Rectangle.ctl" Type="VI" URL="/C/Users/hancock/Desktop/WINUTIL.LLB/Window Rectangle.ctl"/>
+			<Item Name="X1000.vi" Type="VI" URL="../Utility VIs/Math VIs/X1000.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
