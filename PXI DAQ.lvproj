@@ -321,7 +321,6 @@
 			<Item Name="Build Array Name.vi" Type="VI" URL="../Utility VIs/File IO VIs/Read Write Anything/SubVIs/Build Array Name.vi"/>
 			<Item Name="Build Line.vi" Type="VI" URL="../Utility VIs/File IO VIs/Read Write Anything/SubVIs/Build Line.vi"/>
 			<Item Name="Cal Stimulus.ctl" Type="VI" URL="../Calibration VIs/Type Defs/Cal Stimulus.ctl"/>
-			<Item Name="Coerce Rep Rate.vi" Type="VI" URL="../Utility VIs/Math VIs/Coerce Rep Rate.vi"/>
 			<Item Name="Coerce Stimulus Interval.vi" Type="VI" URL="../Utility VIs/Math VIs/Coerce Stimulus Interval.vi"/>
 			<Item Name="Counter Params.ctl" Type="VI" URL="../PXI DAQ VIs/Type Defs/Counter Params.ctl"/>
 			<Item Name="Create Cal Stimulus.vi" Type="VI" URL="../Calibration VIs/SubVIs/Create Cal Stimulus.vi"/>
