@@ -3,14 +3,14 @@
 ### v1.3.2 (2023-09-19)
 
 #### Changed
-- continuing to remove deadwood
+- continuing to refactor and remove deadwood
 
 ---
 
 ### v1.3.1 (2023-09-12)
 
 #### Changed
-- continuing to remove deadwood
+- continuing to refactor and remove deadwood
 
 ---
 
