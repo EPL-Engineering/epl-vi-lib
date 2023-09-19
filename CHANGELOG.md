@@ -9,6 +9,9 @@
 
 ### v1.3.1 (2023-09-12)
 
+#### Removed
+- removed most of Connection Manager functionality
+
 #### Changed
 - continuing to refactor and remove deadwood
 
