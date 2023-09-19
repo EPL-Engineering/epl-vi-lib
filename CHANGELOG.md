@@ -23,6 +23,9 @@
 - User file searches for dB Vrms reference when applicable
 - User file option to loop .wav file instead of zero-pad
 
+#### Deprecated
+- removed most of Connection Manager functionality
+
 #### Changed
 - continuing to remove deadwood
 
