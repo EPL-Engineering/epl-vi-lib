@@ -1,5 +1,30 @@
 ## Change Log
 
+### v1.3.2 (2023-09-19)
+
+#### Changed
+- continuing to remove deadwood
+
+---
+
+### v1.3.1 (2023-09-12)
+
+#### Changed
+- continuing to remove deadwood
+
+---
+
+### v1.3 (2023-09-05)
+
+#### Added
+- User file searches for dB Vrms reference when applicable
+- User file option to loop .wav file instead of zero-pad
+
+#### Changed
+- continuing to remove deadwood
+
+---
+
 ### v1.2.0 (2023-08-31)
 
 #### Changed
@@ -10,6 +35,8 @@
 #### Added
 - exposed Noise weight
 - created pink noise option
+
+---
 
 ### v1.1.0 (2023-08-08)
   
