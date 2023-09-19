@@ -1,4 +1,4 @@
-## Change Log
+## Changelog
 
 ### v1.3.2 (2023-09-19)
 
