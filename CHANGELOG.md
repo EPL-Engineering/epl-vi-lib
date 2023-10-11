@@ -1,5 +1,12 @@
 ## Changelog
 
+### v1.3.3 (2023-10-11)
+
+#### Added
+- "Volts" reference check to user file class
+
+---
+
 ### v1.3.2 (2023-09-19)
 
 #### Changed
