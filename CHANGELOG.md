@@ -1,6 +1,14 @@
 ## Changelog
 
-### v1.3.3 (2023-10-11)
+### v1.3.3 (2023-10-13)
+
+#### Fixed
+
+- bug initializing noise caused error saving parameters
+
+#### Changed
+
+- changed noise weights to explicit White/Pink enumeration
 
 #### Added
 - "Volts" reference check to user file class
