@@ -1,7 +1,12 @@
 ## Changelog
 
-### v1.3.3 (2023-10-13)
+### unreleased
+#### Fixed
+- fixed AO/AI sync error on 4461
 
+---
+
+### v1.3.3 (2023-10-13)
 #### Fixed
 
 - bug initializing noise caused error saving parameters
