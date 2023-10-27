@@ -2,7 +2,7 @@
 <XControl LVVersion="20008000">
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*0!!!*Q(C=\:3R=3*"%%8`K74=S3/#5V&amp;9;ZT4!:S$,YM5/A6=G;41+?!I!!+1USG1QK;!XA\.FKZA*?IE1Y:[;'$`T/^Z/T-V5IO@UKW_YR10T[`DY;T`_6&gt;L&gt;\1BTPP`D@0_.Z[/SO&amp;Q'0/$`M7&lt;`M8C9P`*3X;4@LS,LLP9@`*/_MP&lt;8@;0XAH`[*XQP\0_XT%2D__/_(NY`/_]+H[I$F_314JJ*(KC*XKC*XKC*XKA"XKA"XKA"\KD/\KD/\KD/\KB'\KB'\KB'XJL[%)8ON""3C:0*EK+*A73Q;!I_5JY%J[%*_(B51F0QJ0Q*$Q*$U/5]#1]#5`#E`"A5]+4]#1]#5`#1[F'EKWBQZ0Q5&amp;Y"4]!4]!1]!1^4+O!*!),*AM*"%4!5&gt;!:`!J[!*_$BLQ+?A#@A#8A#(LI6]!1]!5`!%`"A;;M3D7:I[0"12A[0Q_0Q/$Q/$[8F]$A]$I`$Y`!QH2Q?B]?"=#:UCI-AR_1-="Y=(I?((TE]$I`$Y`!Y0(3V(@+W-A0.U.$B-8A-(I0(Y$&amp;Y+#'$R_!R?!Q?AY?S-HA-(I0(Y$&amp;YG%I'D]&amp;D]"AARK2-,[/9941''9,"Q[?&gt;&amp;GO\&amp;)X%7J0K]+I/J?KQK1[2[H#I.FWVG;J.5CW_;F&amp;6C[6;".8,K;"6-+J*6/:BI(K_^_3/X*)&lt;=EWOS#5Z*W?$^:-(^HWP`8[PX7[H\8;LT7;D^8KNV7KFZ8+J_8SOW7QW8A0XN0&amp;#O/*?_MWL&gt;E`(?_;?]8`[[X[PPJ?_QNWIGX9XHI)V?A&amp;&gt;S2K-!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
-	<Property Name="NI.Lib.Version" Type="Str">8.0.0.0</Property>
+	<Property Name="NI.Lib.Version" Type="Str">9.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
 	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
@@ -19,6 +19,7 @@
 		<Item Name="State V5.ctl" Type="VI" URL="../State V5.ctl"/>
 		<Item Name="State V6.ctl" Type="VI" URL="../State V6.ctl"/>
 		<Item Name="State V7.ctl" Type="VI" URL="../State V7.ctl"/>
+		<Item Name="State V8.ctl" Type="VI" URL="../State V8.ctl"/>
 	</Item>
 	<Item Name="Methods" Type="Folder">
 		<Item Name="Get Cell.vi" Type="Method VI" URL="../Get Cell.vi"/>
@@ -47,6 +48,21 @@
 			<Item Name="DefColors Read.vi" Type="Property VI" URL="../DefColors Read.vi"/>
 			<Item Name="DefColors Write.vi" Type="Property VI" URL="../DefColors Write.vi"/>
 		</Item>
+		<Item Name="Disabled (table)" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Disable</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Disabled (table)</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Disabled Read.vi" Type="Property VI" URL="../Disabled Read.vi"/>
+			<Item Name="Disabled Write.vi" Type="Property VI" URL="../Disabled Write.vi"/>
+		</Item>
+		<Item Name="Highlight row" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Highlight row</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Highlight row</Property>
+			<Item Name="Highlight row Read.vi" Type="Property VI" URL="../Highlight row Read.vi"/>
+			<Item Name="Highlight row Write.vi" Type="Property VI" URL="../Highlight row Write.vi"/>
+		</Item>
 		<Item Name="Locked columns" Type="Property Folder">
 			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Locked columns</Property>
 			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Locked columns</Property>
@@ -56,6 +72,12 @@
 			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Table</Property>
 			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Table</Property>
 			<Item Name="Table Write.vi" Type="Property VI" URL="../Table Write.vi"/>
+		</Item>
+		<Item Name="User add" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">User add</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">User add</Property>
+			<Item Name="User add Read.vi" Type="Property VI" URL="../User add Read.vi"/>
+			<Item Name="User add Write.vi" Type="Property VI" URL="../User add Write.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">

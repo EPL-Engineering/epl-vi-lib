@@ -3,6 +3,9 @@
 ### unreleased
 #### Fixed
 - fixed AO/AI sync error on 4461
+#### Added
+- KTable: ability to disable
+- KTable: option to highlight row
 
 ---
 
