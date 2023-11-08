@@ -63,6 +63,11 @@
 			<Item Name="Highlight row Read.vi" Type="Property VI" URL="../Highlight row Read.vi"/>
 			<Item Name="Highlight row Write.vi" Type="Property VI" URL="../Highlight row Write.vi"/>
 		</Item>
+		<Item Name="Listbox" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Listbox</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Listbox</Property>
+			<Item Name="Listbox Read.vi" Type="Property VI" URL="../Listbox Read.vi"/>
+		</Item>
 		<Item Name="Locked columns" Type="Property Folder">
 			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Locked columns</Property>
 			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Locked columns</Property>
