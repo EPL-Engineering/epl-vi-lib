@@ -1,5 +1,12 @@
 ## Changelog
 
+### Unreleased
+
+#### Added
+- SigMan: VI to split into two objects
+
+---
+
 ### 1.4 (2023-11-20)
 
 #### Fixed
