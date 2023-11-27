@@ -1,11 +1,16 @@
 ## Changelog
 
-### unreleased
+### 1.4 (2023-11-20)
+
 #### Fixed
 - fixed AO/AI sync error on 4461
 #### Added
 - KTable: ability to disable
 - KTable: option to highlight row
+- KTable: exposed listbox reference as property
+- KTable: use ring for enum in data (correct indexing)
+- disk space monitor XControl
+- SigMan: white/pink noise weighting option
 
 ---
 
