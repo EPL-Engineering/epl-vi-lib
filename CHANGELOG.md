@@ -3,6 +3,8 @@
 ### Unreleased
 #### Fixed
 - set start trigger when configuring AODO using a USB board: was crashing joint AO/AI acquisition
+- SigMan: more thorough error reporting
+- SigMan/File: suppress Error 4 (file overrun) to allow looping or zero-padding
 #### Changed
 - Gate XCtl: set duration to zero when shape is changed to OFF (was causing Tosca to throw a flatten-to-string error when saving parameters)
 
