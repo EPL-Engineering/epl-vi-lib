@@ -1,6 +1,6 @@
 ## Changelog
 
-### Unreleased
+### 1.4.1 (2023-12-18)
 #### Fixed
 - set start trigger when configuring AODO using a USB board: was crashing joint AO/AI acquisition
 - SigMan: more thorough error reporting
