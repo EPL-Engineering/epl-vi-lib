@@ -49,7 +49,6 @@
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
-				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
@@ -106,7 +105,6 @@
 				<Item Name="Sound File Write Open.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/Sound File Write Open.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
-				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
@@ -130,42 +128,38 @@
 			<Item Name="Array-Dimensions (2D).vi" Type="VI" URL="../../Array Manipulation VIs/Array-Dimensions (2D).vi"/>
 			<Item Name="Array-Dimensions (3D).vi" Type="VI" URL="../../Array Manipulation VIs/Array-Dimensions (3D).vi"/>
 			<Item Name="Array-Dimensions.vi" Type="VI" URL="../../Array Manipulation VIs/Array-Dimensions.vi"/>
-			<Item Name="Array-Parse from string.vi" Type="VI" URL="../../Array Manipulation VIs/Array-Parse from string.vi"/>
+			<Item Name="Array-Parse From String.vi" Type="VI" URL="../../Array Manipulation VIs/Array-Parse From String.vi"/>
 			<Item Name="Array-Unique Strings.vi" Type="VI" URL="../../Array Manipulation VIs/Array-Unique Strings.vi"/>
 			<Item Name="Build Array Name.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Build Array Name.vi"/>
 			<Item Name="Build Line.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Build Line.vi"/>
-			<Item Name="CAL-Interp (Fs, Npts).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Analysis VIs/CAL-Interp (Fs, Npts).vi"/>
-			<Item Name="CAL-Interp.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Analysis VIs/CAL-Interp.vi"/>
-			<Item Name="CAL-Read Data.vi" Type="VI" URL="../../../../epl-cal-vi-lib/File IO VIs/CAL-Read Data.vi"/>
+			<Item Name="CAL-Interp (Fs, Npts).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Common VIs/Analysis VIs/CAL-Interp (Fs, Npts).vi"/>
+			<Item Name="CAL-Interp.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Common VIs/Analysis VIs/CAL-Interp.vi"/>
+			<Item Name="CAL-Read Data.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Common VIs/File IO VIs/CAL-Read Data.vi"/>
 			<Item Name="CF,BW to Fmin,Fmax.vi" Type="VI" URL="../../Math VIs/CF,BW to Fmin,Fmax.vi"/>
 			<Item Name="CF,Oct to Fmin,Fmax.vi" Type="VI" URL="../../Math VIs/CF,Oct to Fmin,Fmax.vi"/>
 			<Item Name="Channel.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Channel/Channel.lvclass"/>
 			<Item Name="Channel.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Channel/Channel.xctl"/>
 			<Item Name="Cluster Array Variant to Cluster Variant Array.vi" Type="VI" URL="../../Controls/KTable/Cluster Array Variant to Cluster Variant Array.vi"/>
 			<Item Name="Cluster Variant Array to Table Items.vi" Type="VI" URL="../../Controls/KTable/Cluster Variant Array to Table Items.vi"/>
-			<Item Name="Coerce Rep Rate.vi" Type="VI" URL="../../Math VIs/Coerce Rep Rate.vi"/>
-			<Item Name="Coerce Stimulus Interval.vi" Type="VI" URL="../../Math VIs/Coerce Stimulus Interval.vi"/>
+			<Item Name="CommonSig-Create Gate.vi" Type="VI" URL="../../../Signal Synthesis VIs/4th Generation/Common/CommonSig-Create Gate.vi"/>
+			<Item Name="CommonSig-Sin2 Ramp.vi" Type="VI" URL="../../../Signal Synthesis VIs/4th Generation/Common/CommonSig-Sin2 Ramp.vi"/>
 			<Item Name="Config-Read Key (DBL).vi" Type="VI" URL="../../File IO VIs/Configuration File Wrapper VIs/Config-Read Key (DBL).vi"/>
-			<Item Name="Create Gate.vi" Type="VI" URL="../../../Signal Synthesis VIs/Gate VIs/Create Gate.vi"/>
 			<Item Name="Create Prism Color Map.vi" Type="VI" URL="../../Math VIs/Create Prism Color Map.vi"/>
 			<Item Name="CumSum.vi" Type="VI" URL="../../Math VIs/CumSum.vi"/>
-			<Item Name="dB to Linear (1D).vi" Type="VI" URL="../../Math VIs/dB to Linear (1D).vi"/>
-			<Item Name="dB to Linear (2D).vi" Type="VI" URL="../../Math VIs/dB to Linear (2D).vi"/>
-			<Item Name="dB to Linear (scalar).vi" Type="VI" URL="../../Math VIs/dB to Linear (scalar).vi"/>
-			<Item Name="dB to Linear.vi" Type="VI" URL="../../Math VIs/dB to Linear.vi"/>
 			<Item Name="dB, degrees to Z.vi" Type="VI" URL="../../Math VIs/dB, degrees to Z.vi"/>
-			<Item Name="Divide By 1000.vi" Type="VI" URL="../../Math VIs/Divide By 1000.vi"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Enable or Gray Out.vi" Type="VI" URL="../../Controls/Enable or Gray Out.vi"/>
+			<Item Name="Error Description.ctl" Type="VI" URL="../../Error Handling VIs/Error Description.ctl"/>
 			<Item Name="Error Dialog.vi" Type="VI" URL="../../Error Handling VIs/Error Dialog.vi"/>
 			<Item Name="Error Handler.vi" Type="VI" URL="../../Error Handling VIs/Error Handler.vi"/>
-			<Item Name="Error-Get Error From List.vi" Type="VI" URL="../../Error Handling VIs/Error-Get Error From List.vi"/>
+			<Item Name="Error Library.vi" Type="VI" URL="../../Error Handling VIs/Error Library.vi"/>
+			<Item Name="Error-Get All Errors From List.vi" Type="VI" URL="../../Error Handling VIs/Error-Get All Errors From List.vi"/>
+			<Item Name="Error-Library Action.ctl" Type="VI" URL="../../Error Handling VIs/Error-Library Action.ctl"/>
 			<Item Name="FFT x(t) to dB,Degrees (1D).vi" Type="VI" URL="../../Math VIs/FFT x(t) to dB,Degrees (1D).vi"/>
 			<Item Name="FFT x(t) to dB,Degrees (2D).vi" Type="VI" URL="../../Math VIs/FFT x(t) to dB,Degrees (2D).vi"/>
 			<Item Name="FFT x(t) to dB,Degrees.vi" Type="VI" URL="../../Math VIs/FFT x(t) to dB,Degrees.vi"/>
-			<Item Name="FFTinv dB,degrees to x(t)_Ch3.vi" Type="VI" URL="../../Math VIs/FFTinv dB,degrees to x(t)_Ch3.vi"/>
 			<Item Name="FFTtoR,Theta (1D).VI" Type="VI" URL="../../Math VIs/FFTtoR,Theta (1D).VI"/>
 			<Item Name="File-Change Extension.vi" Type="VI" URL="../../File IO VIs/File-Change Extension.vi"/>
 			<Item Name="File.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/File/File.lvclass"/>
@@ -193,10 +187,6 @@
 			<Item Name="Graphics-Y Marker Text (intensity graph).vi" Type="VI" URL="../../Graphics VIs/Graphics-Y Marker Text (intensity graph).vi"/>
 			<Item Name="Graphics-Y Marker Text (XY graph).vi" Type="VI" URL="../../Graphics VIs/Graphics-Y Marker Text (XY graph).vi"/>
 			<Item Name="Insert Reserved Error.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Insert Reserved Error.vi"/>
-			<Item Name="interp1 (1D).vi" Type="VI" URL="../../Math VIs/interp1 (1D).vi"/>
-			<Item Name="interp1 (2D).vi" Type="VI" URL="../../Math VIs/interp1 (2D).vi"/>
-			<Item Name="Interp1 (poly).vi" Type="VI" URL="../../Math VIs/Interp1 (poly).vi"/>
-			<Item Name="interp1.vi" Type="VI" URL="../../Math VIs/interp1.vi"/>
 			<Item Name="Irregular Array Subset (DBL).vi" Type="VI" URL="../../Array Manipulation VIs/Irregular Array Subset (DBL).vi"/>
 			<Item Name="KCheckbox.xctl" Type="XControl" URL="../../Controls/KCheckbox/KCheckbox.xctl"/>
 			<Item Name="KCheckmarkBoolean 2.ctl" Type="VI" URL="../../Buttons/KCheckmarkBoolean 2.ctl"/>
@@ -205,23 +195,19 @@
 			<Item Name="KNumeric (DBL).xctl" Type="XControl" URL="../../Controls/KNumeric (DBL)/KNumeric (DBL).xctl"/>
 			<Item Name="KObject.lvclass" Type="LVClass" URL="../../../Koop/KObject Class/KObject.lvclass"/>
 			<Item Name="KTable.xctl" Type="XControl" URL="../../Controls/KTable/KTable.xctl"/>
-			<Item Name="LaserCal-Control Mode.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Control Mode.ctl"/>
-			<Item Name="LaserCal-Data (Dynamic).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Data (Dynamic).ctl"/>
-			<Item Name="LaserCal-Data (I-O).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Data (I-O).ctl"/>
-			<Item Name="LaserCal-Data (PT).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Data (PT).ctl"/>
-			<Item Name="LaserCal-IO Response Params.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-IO Response Params.ctl"/>
-			<Item Name="LaserCal-Load Data (I-O).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-Load Data (I-O).vi"/>
-			<Item Name="LaserCal-mW to V (static).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-mW to V (static).vi"/>
-			<Item Name="LaserCal-mW to V.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-mW to V.vi"/>
-			<Item Name="LaserCal-Stimulus Params.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-Stimulus Params.ctl"/>
-			<Item Name="LaserCal-System ID.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/Typedefs/LaserCal-System ID.ctl"/>
-			<Item Name="LaserCal-V to mW.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/SubVIs/LaserCal-V to mW.vi"/>
+			<Item Name="LaserCal-Control Mode.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/Typedefs/LaserCal-Control Mode.ctl"/>
+			<Item Name="LaserCal-Data (Dynamic).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/Typedefs/LaserCal-Data (Dynamic).ctl"/>
+			<Item Name="LaserCal-Data (I-O).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/Typedefs/LaserCal-Data (I-O).ctl"/>
+			<Item Name="LaserCal-Data (PT).ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/Typedefs/LaserCal-Data (PT).ctl"/>
+			<Item Name="LaserCal-IO Response Params.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/Typedefs/LaserCal-IO Response Params.ctl"/>
+			<Item Name="LaserCal-Load Data (I-O).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/SubVIs/LaserCal-Load Data (I-O).vi"/>
+			<Item Name="LaserCal-mW to V (static).vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/SubVIs/LaserCal-mW to V (static).vi"/>
+			<Item Name="LaserCal-mW to V.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/SubVIs/LaserCal-mW to V.vi"/>
+			<Item Name="LaserCal-Stimulus Params.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/Typedefs/LaserCal-Stimulus Params.ctl"/>
+			<Item Name="LaserCal-System ID.ctl" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/Typedefs/LaserCal-System ID.ctl"/>
+			<Item Name="LaserCal-V to mW.vi" Type="VI" URL="../../../../epl-cal-vi-lib/Laser Calibration VIs/LV Source/SubVIs/LaserCal-V to mW.vi"/>
 			<Item Name="Level.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Level/Level.lvclass"/>
 			<Item Name="Level.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Level/Level.xctl"/>
-			<Item Name="Linear to dB (2D).vi" Type="VI" URL="../../Math VIs/Linear to dB (2D).vi"/>
-			<Item Name="Linear to dB (array).vi" Type="VI" URL="../../Math VIs/Linear to dB (array).vi"/>
-			<Item Name="Linear to dB (scalar).vi" Type="VI" URL="../../Math VIs/Linear to dB (scalar).vi"/>
-			<Item Name="Linear to dB.vi" Type="VI" URL="../../Math VIs/Linear to dB.vi"/>
 			<Item Name="LinSpace (start-stop-step).vi" Type="VI" URL="../../Math VIs/LinSpace (start-stop-step).vi"/>
 			<Item Name="LinSpace (x0-dx-npts).vi" Type="VI" URL="../../Math VIs/LinSpace (x0-dx-npts).vi"/>
 			<Item Name="LinSpace.vi" Type="VI" URL="../../Math VIs/LinSpace.vi"/>
@@ -232,11 +218,17 @@
 			<Item Name="Math-Arbitrary Distribution.vi" Type="VI" URL="../../Math VIs/Math-Arbitrary Distribution.vi"/>
 			<Item Name="Math-Bernoulli Trial.vi" Type="VI" URL="../../Math VIs/Math-Bernoulli Trial.vi"/>
 			<Item Name="Math-Column Mean.vi" Type="VI" URL="../../Math VIs/Math-Column Mean.vi"/>
+			<Item Name="Math-dB To Linear.vim" Type="VI" URL="../../Math VIs/Math-dB To Linear.vim"/>
 			<Item Name="Math-Discrete Truncated Exponential RNG.vi" Type="VI" URL="../../Math VIs/Math-Discrete Truncated Exponential RNG.vi"/>
 			<Item Name="Math-Discrete Truncated Gaussian RNG.vi" Type="VI" URL="../../Math VIs/Math-Discrete Truncated Gaussian RNG.vi"/>
+			<Item Name="Math-Divide By 1000.vim" Type="VI" URL="../../Math VIs/Math-Divide By 1000.vim"/>
+			<Item Name="Math-FFTinv dB,degrees to x(t).vi" Type="VI" URL="../../Math VIs/Math-FFTinv dB,degrees to x(t).vi"/>
+			<Item Name="Math-Interp1.vim" Type="VI" URL="../../Math VIs/Math-Interp1.vim"/>
+			<Item Name="Math-Linear to dB.vim" Type="VI" URL="../../Math VIs/Math-Linear to dB.vim"/>
 			<Item Name="Math-Truncated Exponential RNG.vi" Type="VI" URL="../../Math VIs/Math-Truncated Exponential RNG.vi"/>
 			<Item Name="Math-Truncated Gaussian RNG.vi" Type="VI" URL="../../Math VIs/Math-Truncated Gaussian RNG.vi"/>
 			<Item Name="Math-Uniform Random Number (I32, 1D).vi" Type="VI" URL="../../Math VIs/Math-Uniform Random Number (I32, 1D).vi"/>
+			<Item Name="Math-X1000.vim" Type="VI" URL="../../Math VIs/Math-X1000.vim"/>
 			<Item Name="Moving Ripple Noise.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Moving Ripple Noise/Moving Ripple Noise.lvclass"/>
 			<Item Name="Moving Ripple Noise.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Waveforms/Moving Ripple Noise/Moving Ripple Noise.xctl"/>
 			<Item Name="nearest multiple.vi" Type="VI" URL="../../Math VIs/nearest multiple.vi"/>
@@ -248,6 +240,8 @@
 			<Item Name="provcom_StringGlobals.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Common/provcom_StringGlobals.vi"/>
 			<Item Name="Pulse Train.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Pulse Train/Pulse Train.lvclass"/>
 			<Item Name="Pulse Train.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Waveforms/Pulse Train/Pulse Train.xctl"/>
+			<Item Name="PXI-Coerce Rep Rate.vi" Type="VI" URL="../../../PXI DAQ VIs/Top Level VIs/PXI-Coerce Rep Rate.vi"/>
+			<Item Name="PXI-Coerce Stimulus Interval.vi" Type="VI" URL="../../../PXI DAQ VIs/Top Level VIs/PXI-Coerce Stimulus Interval.vi"/>
 			<Item Name="Read Anything (from variant).vi" Type="VI" URL="../../File IO VIs/Read Write Anything/Read Anything (from variant).vi"/>
 			<Item Name="Read Anything.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/Read Anything.vi"/>
 			<Item Name="Read Strings from File.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Read Strings from File.vi"/>
@@ -258,7 +252,6 @@
 			<Item Name="SAM.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Modulations/SAM/SAM.xctl"/>
 			<Item Name="SignalManager.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/SignalManager/SignalManager.lvclass"/>
 			<Item Name="SignalManager.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/SignalManager/SignalManager.xctl"/>
-			<Item Name="Sine-squared ramp.vi" Type="VI" URL="../../../Signal Synthesis VIs/Gate VIs/Sine-squared ramp.vi"/>
 			<Item Name="State.vi" Type="VI" URL="/C/Users/Ken/Desktop/XControl/State.vi"/>
 			<Item Name="Suppress Error Code - Array.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code - Array.vi"/>
 			<Item Name="Suppress Error Code - Scalar.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code - Scalar.vi"/>
@@ -272,6 +265,7 @@
 			<Item Name="Table-Get Visible Rows.vi" Type="VI" URL="../../Controls/Table-Get Visible Rows.vi"/>
 			<Item Name="TDT-Coerce Sampling Rate.vi" Type="VI" URL="../../../PXI DAQ VIs/TDT VIs/TDT-Coerce Sampling Rate.vi"/>
 			<Item Name="Text List to Array.vi" Type="VI" URL="../../Text VIs/Text List to Array.vi"/>
+			<Item Name="Text-Parse String Fields.vi" Type="VI" URL="../../Text VIs/Text-Parse String Fields.vi"/>
 			<Item Name="Time Period To Num Samples.vi" Type="VI" URL="../../Math VIs/Time Period To Num Samples.vi"/>
 			<Item Name="Tone Cloud.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Tone Cloud/Tone Cloud.lvclass"/>
 			<Item Name="Tone.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Tone/Tone.lvclass"/>
@@ -296,7 +290,6 @@
 			<Item Name="Wave-Skip Chunk.vi" Type="VI" URL="../../File IO VIs/Wave File VIs/Wave-Skip Chunk.vi"/>
 			<Item Name="Waveform.lvclass" Type="LVClass" URL="../../../Signal Synthesis VIs/4th Generation/Classes/Waveforms/Waveform/Waveform.lvclass"/>
 			<Item Name="Waveform.xctl" Type="XControl" URL="../../../Signal Synthesis VIs/4th Generation/Controls/Waveforms/Waveform/Waveform.xctl"/>
-			<Item Name="X1000.vi" Type="VI" URL="../../Math VIs/X1000.vi"/>
 			<Item Name="Z to dB, degrees (1D).vi" Type="VI" URL="../../Math VIs/Z to dB, degrees (1D).vi"/>
 			<Item Name="Z to dB, degrees (2D).vi" Type="VI" URL="../../Math VIs/Z to dB, degrees (2D).vi"/>
 			<Item Name="Z to dB, degrees.vi" Type="VI" URL="../../Math VIs/Z to dB, degrees.vi"/>
@@ -319,7 +312,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">project/Scripting/KObject/KObject.llb</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{927C09AD-0493-4157-A844-06CE5EE3E222}</Property>
-				<Property Name="Bld_version.build" Type="Int">73</Property>
+				<Property Name="Bld_version.build" Type="Int">74</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">project/Scripting/KObject/KObject.llb</Property>
@@ -428,7 +421,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/VI Scripting VIs/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B0D50724-470E-450F-8F9D-A0BC0BBD497E}</Property>
-				<Property Name="Bld_version.build" Type="Int">112</Property>
+				<Property Name="Bld_version.build" Type="Int">113</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">project/Scripting/XControl/XControl.llb</Property>
