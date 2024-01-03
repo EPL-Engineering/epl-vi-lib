@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.4.2 (2024-01-03)
+#### Fixed
+- DAQ VIs: initialize digital outputs in the same manner as the analog outputs
+
+---
+
 ### 1.4.1 (2023-12-18)
 #### Fixed
 - set start trigger when configuring AODO using a USB board: was crashing joint AO/AI acquisition
