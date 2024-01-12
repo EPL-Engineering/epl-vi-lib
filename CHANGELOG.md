@@ -1,5 +1,9 @@
 ## Changelog
 
+### Unreleased
+#### Added
+- new VI to wait for digital pulse
+
 ### 1.4.2 (2024-01-03)
 #### Fixed
 - DAQ VIs: initialize digital outputs in the same manner as the analog outputs
