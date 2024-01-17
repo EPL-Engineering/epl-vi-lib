@@ -1,8 +1,10 @@
 ## Changelog
 
-### Unreleased
+### 1.5 (2024-01-17)
 #### Added
 - new VI to wait for digital pulse
+
+---
 
 ### 1.4.2 (2024-01-03)
 #### Fixed
