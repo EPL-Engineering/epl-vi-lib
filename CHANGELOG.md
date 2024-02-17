@@ -1,5 +1,14 @@
 ## Changelog
 
+### Unreleased
+#### Added
+- TCP: stress test, prefix string convenience VI
+- SigMan: Get Max Level (by channel) VI
+- SigMan: added inputs to Pulse Train and Filter "Create" VIs
+- detailed error handling express VI
+
+---
+
 ### 1.5 (2024-01-17)
 #### Added
 - new VI to wait for digital pulse
