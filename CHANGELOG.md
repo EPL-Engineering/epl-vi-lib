@@ -6,6 +6,7 @@
 - SigMan: Get Max Level (by channel) VI
 - SigMan: added inputs to Pulse Train and Filter "Create" VIs
 - detailed error handling express VI
+- KLegend: "show symbols" option
 
 ---
 
