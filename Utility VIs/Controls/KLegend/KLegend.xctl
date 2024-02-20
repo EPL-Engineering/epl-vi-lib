@@ -26,6 +26,12 @@
 			<Item Name="Plot refnum Read.vi" Type="Property VI" URL="../Plot refnum Read.vi"/>
 			<Item Name="Plot refnum Write.vi" Type="Property VI" URL="../Plot refnum Write.vi"/>
 		</Item>
+		<Item Name="Show symbols" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Show symbols</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Show symbols</Property>
+			<Item Name="Show symbols Read.vi" Type="Property VI" URL="../Show symbols Read.vi"/>
+			<Item Name="Show symbols Write.vi" Type="Property VI" URL="../Show symbols Write.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Item Name="Update legend.vi" Type="VI" URL="../Update legend.vi"/>
