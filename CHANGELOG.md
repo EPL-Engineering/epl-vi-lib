@@ -1,8 +1,9 @@
 ## Changelog
 
-### Unreleased
+### 1.6 (2024-02-27)
 #### Added
 - TCP: stress test, prefix string convenience VI
+- TCP: network discovery infrastructure
 - SigMan: Get Max Level (by channel) VI
 - SigMan: added inputs to Pulse Train and Filter "Create" VIs
 - detailed error handling express VI
