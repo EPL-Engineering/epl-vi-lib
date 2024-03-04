@@ -1,5 +1,4 @@
-% fn = 'C:\Users\kehan\Desktop\AITimestampTest_24Mar02_121344.bin';
-fn = 'C:\Users\kehan\Desktop\AITimestampTest_24Mar02_134029.bin';
+fn = '\\apollo\research\ENT\Shared\Hancock\z.Transfer\AITimestampBasics_24Mar04_171638.bin';
 
 info = dir(fn);
 
@@ -75,18 +74,18 @@ t0 = t_adc(1);
 plot(t_adc-t0, Y);
 xlabel('Time (s)');
 
-xline(t_preread-t0, 'k--');
-xline(t_postread-t0, 'k-');
-
-xline(t_prewrite-t0, 'r:');
+% xline(t_preread-t0, 'k--');
+% xline(t_postread-t0, 'k-');
+% 
+% xline(t_prewrite-t0, 'r:');
 xline(t_postwrite-t0, 'r-');
-
+% 
 xline(t_on - t0, 'b:');
-xline(t_off - t0, 'b:');
-
-klib.graphics.xaxis(-0.01,0.4);
-
-tight_figure();
+% xline(t_off - t0, 'b:');
+% 
+% klib.graphics.xaxis(-0.01,0.4);
+% 
+% tight_figure();
 
 %% adc times
 
@@ -119,7 +118,7 @@ figure;
 % plot(t_on - t0, dt, 'o');
 % xlabel('Pulse time (s)');
 % ylabel('Pulse time re: write (ms)');
-histogram(dt, klib.stats.generic_bins(dt, 0.01));
+histogram(dt);%, klib.stats.generic_bins(dt, 0.01));
 xlabel('ADC pulse time - post write time (ms)');
 ylabel('Number');
 figsize('landscape', 0.3);

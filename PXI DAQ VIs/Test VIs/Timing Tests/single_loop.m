@@ -1,4 +1,4 @@
-fn = 'C:\Users\kehan\Desktop\AITimestampBasics_24Mar03_002629.bin';
+fn = '\\apollo\research\ENT\Shared\Hancock\z.Transfer\AITimestampBasics_24Mar04_161614.bin';
 
 fp = fopen(fn, 'rb', 'b');
 
@@ -12,8 +12,8 @@ t_preread = fread(fp, nread, 'double') + timeShift;
 nread = fread(fp, 1, 'int32');
 t_buffer = fread(fp, nread, 'double');
 
-% nread = fread(fp, 1, 'int32');
-% t_postread = fread(fp, nread, 'double')+ timeShift;
+nread = fread(fp, 1, 'int32');
+t_postread = fread(fp, nread, 'double')+ timeShift;
 
 fclose(fp);
 

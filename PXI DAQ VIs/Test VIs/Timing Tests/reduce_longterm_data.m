@@ -1,4 +1,4 @@
-fn = 'C:\Users\kehan\Desktop\AITimestampBasics_24Mar03_132406.bin';
+fn = '\\apollo\research\ENT\Shared\Hancock\z.Transfer\AITimestampBasics_24Mar04_154244.bin';
 
 info = dir(fn);
 
@@ -17,7 +17,7 @@ t_postread = t_preread;
 t_buffer = t_preread;
 
 offset = 0;
-for k = ifiltframe
+for k = 1:nframe
    nread = fread(fp, 1, 'int32');
    if nread ~= ptsPerFrame
       error('unexpected frame size');
@@ -28,9 +28,9 @@ for k = ifiltframe
    t_preread(k) = y(1) + timeShift;
    t_postread(k) = y(3) + timeShift;
    t_buffer(k) = y(2);
-   t_adc(offset + (ifiltadc)) = y(2) + y(4)*(0:nadc-1);
+   t_adc(offset + (1:nadc)) = y(2) + y(4)*(0:nadc-1);
 
-   Y(offset + (ifiltadc)) = y(5:end);
+   Y(offset + (1:nadc)) = y(5:end);
 
    offset = offset + nadc;
 end
@@ -124,7 +124,7 @@ tight_figure();
 
 %% drift
 ifilt = 1:length(t_buffer);
-ifilt = t_buffer < 100;
+% ifilt = t_buffer < 100;
 dt = 1000*(t_buffer - t_preread);
 [m,b] = klib.stats.linefit(t_buffer(ifilt), dt(ifilt));
 fprintf('drift = %.3f us/s\n', 1000*m);

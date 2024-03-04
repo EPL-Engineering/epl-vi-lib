@@ -1,4 +1,4 @@
-fn = 'C:\Users\kehan\Desktop\AITimestampPrecision_24Mar02_143837.bin';
+fn = '\\apollo\research\ENT\Shared\Hancock\z.Transfer\AITimestampBasics_24Mar04_144125.bin';
 
 info = dir(fn);
 
