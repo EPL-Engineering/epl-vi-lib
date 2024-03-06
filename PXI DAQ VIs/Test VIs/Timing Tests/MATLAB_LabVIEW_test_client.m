@@ -29,7 +29,7 @@ packet_length = 8;
 socket = DatagramSocket(port);
 socket.setReuseAddress(1);
 packet = DatagramPacket(zeros(1, packet_length, 'uint8'), packet_length, java.net.InetAddress.getByName('127.0.0.1'), 5555);
-for k = 1:10
+for k = 1:1000
    pause(1);
    t = datetime('now','TimeZone','local');   
    data = datenum(t - t0)*86400;
@@ -40,3 +40,4 @@ for k = 1:10
 end
 
 socket.close();
+

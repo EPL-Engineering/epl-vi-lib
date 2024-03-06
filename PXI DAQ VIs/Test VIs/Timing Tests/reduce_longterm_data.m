@@ -1,4 +1,8 @@
-fn = '\\apollo\research\ENT\Shared\Hancock\z.Transfer\AITimestampBasics_24Mar04_154244.bin';
+folder = 'C:\Users\kehan\OneDrive\Engineering\EPL Core\System Timing';
+% binFile = 'AITimestampBasics_24Mar04_144125.bin';
+binFile = 'AITimestampBasics_24Mar04_171638.bin';
+
+fn = fullfile(folder, binFile);
 
 info = dir(fn);
 
