@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.7 (Unreleased)
+#### Added
+- SigMan\Gate: repeat rate and duration properties
+
+---
+
 ### 1.6 (2024-02-27)
 #### Added
 - TCP: stress test, prefix string convenience VI
