@@ -1,6 +1,6 @@
 ## Changelog
 
-### 1.7 (Unreleased)
+### 1.7 (2024-04-08)
 #### Added
 - SigMan\Gate: repeat rate and duration properties
 
