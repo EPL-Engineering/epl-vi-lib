@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.8 (2024-05-15)
+#### Added
+- DAQ-Enumerate COM Ports.vi
+- TCP-Get Error Message.vi
+- PXI-Set AO Value.vi
+
+---
+
 ### 1.7 (2024-04-08)
 #### Added
 - SigMan\Gate: repeat rate and duration properties
