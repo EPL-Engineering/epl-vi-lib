@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.8.1 (unreleased)
+#### Changed
+- updated Beeper and Min:Sec text conversion
+
+---
+
 ### 1.8 (2024-05-15)
 #### Added
 - DAQ-Enumerate COM Ports.vi
