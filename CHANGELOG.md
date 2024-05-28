@@ -1,6 +1,6 @@
 ## Changelog
 
-### 1.8.1 (unreleased)
+### 1.8.1 (2024-05-28)
 #### Changed
 - updated Beeper and Min:Sec text conversion
 
