@@ -1,5 +1,10 @@
 ## Changelog
 
+### 1.9 (unreleased)
+#### Added
+- MCL-Set Items Scroll To Last.vi
+- Align Window on Parent.vi
+
 ### 1.8.1 (2024-05-28)
 #### Changed
 - updated Beeper and Min:Sec text conversion
