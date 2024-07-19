@@ -312,7 +312,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">project/Scripting/KObject/KObject.llb</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{927C09AD-0493-4157-A844-06CE5EE3E222}</Property>
-				<Property Name="Bld_version.build" Type="Int">74</Property>
+				<Property Name="Bld_version.build" Type="Int">80</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">project/Scripting/KObject/KObject.llb</Property>
