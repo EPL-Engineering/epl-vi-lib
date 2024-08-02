@@ -1,6 +1,6 @@
 ## Changelog
 
-### 1.9 (unreleased)
+### 1.9 (2024-06-27)
 #### Added
 - MCL-Set Items Scroll To Last.vi
 - Align Window on Parent.vi
