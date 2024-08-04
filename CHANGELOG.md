@@ -1,5 +1,16 @@
 ## Changelog
 
+### 1.10 (2024-08-03)
+#### Added
+- TCP: network discovery
+#### Fixed
+- SigMan: make sure stimulus interval is coerced consistently everywhere
+- path errors in scripting VIs
+#### Changed
+- TDT VIs: modernized
+
+---
+
 ### 1.9 (2024-06-27)
 #### Added
 - MCL-Set Items Scroll To Last.vi
