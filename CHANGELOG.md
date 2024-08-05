@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.11 (unreleased)
+#### Added
+- SigMan: ability to glide level multiplier
+
+---
+
 ### 1.10 (2024-08-03)
 #### Added
 - TCP: network discovery
