@@ -1,6 +1,6 @@
 ## Changelog
 
-### 1.11 (unreleased)
+### 1.11 (2024-08-05)
 #### Added
 - SigMan: ability to glide level multiplier
 
