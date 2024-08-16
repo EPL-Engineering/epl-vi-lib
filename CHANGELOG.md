@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.12 (2024-08-16)
+#### Added 
+- TCP-Wait For.vi to facilitate verification that IPCs started
+#### Changed
+- Added error in to UDP Discover .vi
+
+---
+
 ### 1.11 (2024-08-05)
 #### Added
 - SigMan: ability to glide level multiplier
