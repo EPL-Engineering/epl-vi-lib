@@ -1,5 +1,9 @@
 ## Changelog
 
+### 1.13 (2024-09-09)
+#### Changed
+- added explicit timeout parameter to TDT write VI
+
 ### 1.12 (2024-08-16)
 #### Added 
 - TCP-Wait For.vi to facilitate verification that IPCs started
