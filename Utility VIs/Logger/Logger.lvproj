@@ -71,6 +71,7 @@
 			<Item Name="Error Dialog.vi" Type="VI" URL="../../Error Handling VIs/Error Dialog.vi"/>
 			<Item Name="Error Handler.vi" Type="VI" URL="../../Error Handling VIs/Error Handler.vi"/>
 			<Item Name="Error Library.vi" Type="VI" URL="../../Error Handling VIs/Error Library.vi"/>
+			<Item Name="Error-Format Stack.vi" Type="VI" URL="../../Error Handling VIs/Error-Format Stack.vi"/>
 			<Item Name="Error-Get All Errors From List.vi" Type="VI" URL="../../Error Handling VIs/Error-Get All Errors From List.vi"/>
 			<Item Name="Error-Library Action.ctl" Type="VI" URL="../../Error Handling VIs/Error-Library Action.ctl"/>
 			<Item Name="FileIO-File or Folder Exists.vi" Type="VI" URL="../../File IO VIs/FileIO-File or Folder Exists.vi"/>
