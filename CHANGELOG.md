@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.14 (unreleased)
+#### Added
+- Controls: combination RGB slider/color box XControl
+
+---
+
 ### 1.13 (2024-09-09)
 #### Changed
 - added explicit timeout parameter to TDT write VI
