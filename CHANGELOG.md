@@ -1,8 +1,12 @@
 ## Changelog
 
-### 1.14 (unreleased)
+### 1.14 (2024-10-30)
 #### Added
 - Controls: combination RGB slider/color box XControl
+- Controls: progress bars (including indeterminate)
+- Logging VIs 
+#### Changed
+- Build VIs now read version information from the project instead of the other way around
 
 ---
 
