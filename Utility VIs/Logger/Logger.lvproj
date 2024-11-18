@@ -71,6 +71,7 @@
 			<Item Name="Error Dialog.vi" Type="VI" URL="../../Error Handling VIs/Error Dialog.vi"/>
 			<Item Name="Error Handler.vi" Type="VI" URL="../../Error Handling VIs/Error Handler.vi"/>
 			<Item Name="Error Library.vi" Type="VI" URL="../../Error Handling VIs/Error Library.vi"/>
+			<Item Name="Error-Format Message.vi" Type="VI" URL="../../Error Handling VIs/Error-Format Message.vi"/>
 			<Item Name="Error-Format Stack.vi" Type="VI" URL="../../Error Handling VIs/Error-Format Stack.vi"/>
 			<Item Name="Error-Get All Errors From List.vi" Type="VI" URL="../../Error Handling VIs/Error-Get All Errors From List.vi"/>
 			<Item Name="Error-Library Action.ctl" Type="VI" URL="../../Error Handling VIs/Error-Library Action.ctl"/>
@@ -87,7 +88,6 @@
 			<Item Name="Read Write Options Cluster.ctl" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Read Write Options Cluster.ctl"/>
 			<Item Name="Replace Characters.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Replace Characters.vi"/>
 			<Item Name="RWAE-Fix Name.vi" Type="VI" URL="../../File IO VIs/Read Write Anything Enhanced/RWAE-Fix Name.vi"/>
-			<Item Name="Spawn VI.vim" Type="VI" URL="../../Controls/Spawn VI.vim"/>
 			<Item Name="Suppress Error Code - Array.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code - Array.vi"/>
 			<Item Name="Suppress Error Code - Scalar.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code - Scalar.vi"/>
 			<Item Name="Suppress Error Code.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code.vi"/>
