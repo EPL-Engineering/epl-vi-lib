@@ -1,5 +1,15 @@
 ## Changelog
 
+### 1.15 (2025-01-29)
+#### Added
+- array permutation VI
+- append to binary file VI
+#### Fixed
+- bugs in Logging VIs
+- added drive information to make disk space monitor more robust
+
+---
+
 ### 1.14 (2024-10-30)
 #### Added
 - Controls: combination RGB slider/color box XControl
