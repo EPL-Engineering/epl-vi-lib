@@ -1,5 +1,14 @@
 ## Changelog
 
+### 1.15.1 (2025-02-11)
+#### Fixed
+- CommonSig-Apply Ramp: malleable VI broke executables, replaced with polymorphic VI
+- SysInfo-Get Fixed Drives: fixed bad typedef link
+- Build VI: tweaked to allow either explicity version number specification or reading it from config
+- AODO: number of samples not handled correctly for finite generation
+
+---
+
 ### 1.15 (2025-01-29)
 #### Added
 - array permutation VI
