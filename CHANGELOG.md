@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.16 (2025-06-25)
+#### Added
+ - precise time stamp VIs (100-ns resolution)
+ - byte order support to TCP VIs
+ - network discovery now allows 192.168 in addition to 169.254
+ 
+ ---
+
 ### 1.15.1 (2025-02-11)
 #### Fixed
 - CommonSig-Apply Ramp: malleable VI broke executables, replaced with polymorphic VI
