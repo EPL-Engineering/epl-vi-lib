@@ -1,5 +1,11 @@
 ## Changelog
 
+### v1.17 (unreleased)
+#### Added
+- Logger: options to show log or retrieve it via TCP
+
+---
+
 ### 1.16 (2025-06-25)
 #### Added
  - precise time stamp VIs (100-ns resolution)
