@@ -41,6 +41,7 @@
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="High Resolution Polling Wait.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Polling Wait.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
@@ -49,12 +50,14 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="Open a Document on Disk.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open a Document on Disk.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
@@ -80,7 +83,12 @@
 			<Item Name="Get Type Info.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Get Type Info.vi"/>
 			<Item Name="Get Variant Attribute With Defaults.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Get Variant Attribute With Defaults.vi"/>
 			<Item Name="Insert Reserved Error.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Insert Reserved Error.vi"/>
+			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="KObject.lvclass" Type="LVClass" URL="../../../Koop/KObject Class/KObject.lvclass"/>
+			<Item Name="libsystem_kernel.dylib" Type="Document" URL="/usr/lib/system/libsystem_kernel.dylib"/>
+			<Item Name="Math-Divide By 1000.vim" Type="VI" URL="../../Math VIs/Math-Divide By 1000.vim"/>
 			<Item Name="Process Array Elements V2.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Process Array Elements V2.vi"/>
 			<Item Name="Read Anything (from variant).vi" Type="VI" URL="../../File IO VIs/Read Write Anything/Read Anything (from variant).vi"/>
 			<Item Name="Read Anything.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/Read Anything.vi"/>
@@ -93,6 +101,7 @@
 			<Item Name="Suppress Error Code.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Suppress Error Code.vi"/>
 			<Item Name="Unprocess Array Elements.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Unprocess Array Elements.vi"/>
 			<Item Name="Unreplace Characters.vi" Type="VI" URL="../../File IO VIs/Read Write Anything/SubVIs/Unreplace Characters.vi"/>
+			<Item Name="Utilities-Wait.vi" Type="VI" URL="../../Controls/Utilities-Wait.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
