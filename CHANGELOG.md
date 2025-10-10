@@ -1,8 +1,15 @@
 ## Changelog
 
-### v1.17 (unreleased)
+### v1.17 (2025-10-10)
 #### Added
 - Logger: options to show log or retrieve it via TCP
+#### Changed
+- DAQ counter task: explicit control of enabling
+- Graphics: added "insert at" to Graphics-Add Plot.vi
+- TCP Discovery: allow 11.12.13.xxx pattern
+- Logger: 
+  - timestamps use millisecond precision
+  - ability to offset timestamps to match remote server
 
 ---
 
