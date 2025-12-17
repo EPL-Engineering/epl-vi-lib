@@ -1,5 +1,17 @@
 ## Changelog
 
+### v1.18 (2025-12-17)
+#### Added
+- TCP
+  - subnet-specific network discovery
+  - option  to transmit full address (not just port)
+  - port option to accommodate multiple discovery servers
+- added FileIO-Create Folder.vi to simplify check for and creation of folders
+#### Fixed
+- DAQ: get terminal configuration correctly from a list of channels  
+
+---
+
 ### v1.17 (2025-10-10)
 #### Added
 - Logger: options to show log or retrieve it via TCP
