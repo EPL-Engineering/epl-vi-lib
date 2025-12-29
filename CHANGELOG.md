@@ -1,5 +1,11 @@
 ## Changelog
 
+### v1.19 (2025-12-29)
+#### Added
+- Win32-Move Window To Top.vim
+
+---
+
 ### v1.18 (2025-12-17)
 #### Added
 - TCP
