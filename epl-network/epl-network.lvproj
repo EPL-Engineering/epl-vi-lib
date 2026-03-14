@@ -42,7 +42,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{02956B06-AB35-4493-88F9-AF50CCBE0685}</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">22</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">epl-network-1-0.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Builds/epl-network-1-0.lvlibp</Property>
