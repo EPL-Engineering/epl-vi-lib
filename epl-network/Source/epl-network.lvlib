@@ -4,24 +4,39 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Discovery" Type="Folder">
+		<Item Name="Typedefs" Type="Folder">
+			<Item Name="Beacon Result.ctl" Type="VI" URL="../Public/Discovery/Typedefs/Beacon Result.ctl"/>
+			<Item Name="Server Beacon.ctl" Type="VI" URL="../Public/Discovery/Typedefs/Server Beacon.ctl"/>
+		</Item>
+		<Item Name="Find Available EndPoint.vi" Type="VI" URL="../Public/Discovery/Find Available EndPoint.vi"/>
+		<Item Name="Start Discovery.vi" Type="VI" URL="../Public/Discovery/Start Discovery.vi"/>
+		<Item Name="Stop Discovery.vi" Type="VI" URL="../Public/Discovery/Stop Discovery.vi"/>
+	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Discovered Host.ctl" Type="VI" URL="../Private/Discovered Host.ctl"/>
+		<Item Name="Discovery Connection Manager Loop.vi" Type="VI" URL="../Private/Discovery Connection Manager Loop.vi"/>
 		<Item Name="Discovery Events.ctl" Type="VI" URL="../Private/Discovery Events.ctl"/>
 		<Item Name="Discovery FGV.ctl" Type="VI" URL="../Private/Discovery FGV.ctl"/>
 		<Item Name="Discovery FGV.vi" Type="VI" URL="../Private/Discovery FGV.vi"/>
-		<Item Name="Discovery Listener.vi" Type="VI" URL="../Private/Discovery Listener.vi"/>
+		<Item Name="Discovery UDP Receive Loop.vi" Type="VI" URL="../Private/Discovery UDP Receive Loop.vi"/>
+		<Item Name="Expire Stale Hosts.vi" Type="VI" URL="../Private/Expire Stale Hosts.vi"/>
+		<Item Name="Generate TCP Error.vi" Type="VI" URL="../Private/Generate TCP Error.vi"/>
+		<Item Name="Get Available Port.vi" Type="VI" URL="../Private/Get Available Port.vi"/>
+		<Item Name="Get Local Address.vi" Type="VI" URL="../Private/Get Local Address.vi"/>
+		<Item Name="Prepend String Length.vi" Type="VI" URL="../Private/Prepend String Length.vi"/>
 		<Item Name="Process Beacon.vi" Type="VI" URL="../Private/Process Beacon.vi"/>
 	</Item>
-	<Item Name="Public" Type="Folder">
-		<Item Name="Discovery" Type="Folder">
-			<Item Name="Typedefs" Type="Folder">
-				<Item Name="Beacon Result.ctl" Type="VI" URL="../Public/Discovery/Typedefs/Beacon Result.ctl"/>
-				<Item Name="Server Beacon.ctl" Type="VI" URL="../Public/Discovery/Typedefs/Server Beacon.ctl"/>
-			</Item>
-			<Item Name="Start Discovery.vi" Type="VI" URL="../Public/Discovery/Start Discovery.vi"/>
-			<Item Name="Stop Discovery.vi" Type="VI" URL="../Public/Discovery/Stop Discovery.vi"/>
+	<Item Name="TCP" Type="Folder">
+		<Item Name="Typedefs" Type="Folder">
+			<Item Name="IPEndPoint.ctl" Type="VI" URL="../Public/TCP/Typedefs/IPEndPoint.ctl"/>
+			<Item Name="TCP Message.ctl" Type="VI" URL="../Public/TCP/Typedefs/TCP Message.ctl"/>
 		</Item>
-		<Item Name="BuildAction.vi" Type="VI" URL="../Public/BuildAction.vi"/>
+		<Item Name="Send Message, JSON Payload.vi" Type="VI" URL="../Public/TCP/Send Message, JSON Payload.vi"/>
+		<Item Name="Send Message, String Payload.vi" Type="VI" URL="../Public/TCP/Send Message, String Payload.vi"/>
+		<Item Name="Send Message.vi" Type="VI" URL="../Public/TCP/Send Message.vi"/>
+		<Item Name="Send Request, JSON Payload.vi" Type="VI" URL="../Public/TCP/Send Request, JSON Payload.vi"/>
+		<Item Name="Send Request.vi" Type="VI" URL="../Public/TCP/Send Request.vi"/>
 	</Item>
 </Library>
