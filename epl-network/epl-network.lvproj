@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
+			<Item Name="Test Discovery Beacon.vi" Type="VI" URL="../Tests/Test Discovery Beacon.vi"/>
 			<Item Name="Test Discovery Listener.vi" Type="VI" URL="../Tests/Test Discovery Listener.vi"/>
 		</Item>
 		<Item Name="epl-network.lvlib" Type="Library" URL="../Source/epl-network.lvlib"/>
@@ -42,7 +43,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{02956B06-AB35-4493-88F9-AF50CCBE0685}</Property>
-				<Property Name="Bld_version.build" Type="Int">22</Property>
+				<Property Name="Bld_version.build" Type="Int">23</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">epl-network-1-0.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Builds/epl-network-1-0.lvlibp</Property>
