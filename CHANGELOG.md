@@ -1,5 +1,11 @@
 ## Changelog
 
+### v1.21 (2026-10-07)
+#### Changed
+- explicitly read AO start trigger terminal when configuring DO clock task
+
+---
+
 ### v1.20 (2026-09-15)
 #### Changed
 - made TCP byte-order required input; otherwise the addition of this input silently breaks existing usages
