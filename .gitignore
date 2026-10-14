@@ -2,3 +2,4 @@
 /Utility VIs/Logger/*.aliases
 /*.aliases
 /Builds
+/docs/ai/_gen/__pycache__/
